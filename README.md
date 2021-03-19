@@ -26,7 +26,7 @@ The plan was to think that the manifest was located in `/.never/gonna/give/you/u
 
 To link this with Rick Rolling, I thought I'd create a different [kubernetes manifest](https://kubernetes.io/docs/reference/setup-tools/kubeadm/implementation-details/#constants-and-well-known-values-and-paths) mounted from 6 different paths relating to each line of the chorus.
 
-There is a bash script [`gonnagivenevergonnagive.sh`](usr/share/.never/gonnagivenevergonnagive.sh) hidden away in `/usr/share/.never/` that switches the mounts to [different chorus directories](usr/share.never).  The initial plan would be for this to start slowly and increase incrementally until it was every 10 seconds but just left it switching every 10 seconds for the **Klustered** session.
+There is a bash script [`gonnagivenevergonnagive.sh`](usr/share/.never/gonnagivenevergonnagive.sh) hidden away in `/usr/share/.never/` that switches the mounts to [different chorus directories](usr/share/.never).  The initial plan would be for this to start slowly and increase incrementally until it was every 10 seconds but just left it switching every 10 seconds for the **Klustered** session.
 
 Whilst doing this, I honestly don't know whats happening between all the switching file structures, say to say that this was starting to break.
 

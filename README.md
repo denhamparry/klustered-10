@@ -2,7 +2,7 @@
 
 The thought process and some kind of source files for the cluster configuration for [Klustered](https://www.youtube.com/playlist?list=PLz0t90fOInA5IyhoT96WhycPV8Km-WICj).
 
-[Click here](https://youtu.be/ju1wmhfk6t8?t=5176) to go straight to when the cluster is being debugged.
+[Click here](https://www.youtube.com/watch?v=Ju1WmHfK6t8&t=5176s) to go straight to when the cluster is being debugged.
 
 Thanks to both [David](https://twitter.com/rawkode) and [Jason](https://twitter.com/detiber) for their time.
 I'd also like to suggest we call the tag team **DelBoys** for British comedic reference:
